@@ -27,14 +27,3 @@ To analyze patterns in homelessness across U.S. states and determine the most in
 - Jupyter Notebook
 - Matplotlib, Seaborn
 
-## Project Structure
-homelessness_project/
-
-├── data/ # Raw and processed datasets
-├── notebooks/ # Jupyter notebooks for analysis and modeling
-
-├── visuals/ # Plots and visualizations
-
-├── README.md # Project overview (this file)
-
-└── .gitignore # Files and folders excluded from Git
