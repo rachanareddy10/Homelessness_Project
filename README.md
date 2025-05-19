@@ -31,7 +31,6 @@ To analyze patterns in homelessness across U.S. states and determine the most in
 homelessness_project/
 
 ├── data/ # Raw and processed datasets
-
 ├── notebooks/ # Jupyter notebooks for analysis and modeling
 
 ├── visuals/ # Plots and visualizations
