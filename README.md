@@ -29,9 +29,13 @@ To analyze patterns in homelessness across U.S. states and determine the most in
 
 ## Project Structure
 homelessness_project/
+
 ├── data/ # Raw and processed datasets
+
 ├── notebooks/ # Jupyter notebooks for analysis and modeling
+
 ├── visuals/ # Plots and visualizations
+
 ├── README.md # Project overview (this file)
-├── requirements.txt # Python dependencies (optional)
+
 └── .gitignore # Files and folders excluded from Git
